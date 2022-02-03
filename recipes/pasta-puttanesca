@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Pasta Puttanesca</title>
+    <meta charset="UTF-8">
+  </head>
+
+  <body>
+      <h1>Pasta Puttanesca</h1>
+      <img src="../images/pasta-puttanesca.webp" alt="A Plate of pasta puttanesca">
+      <h2>Description</h2>
+      <p>Pasta Puttanesca is a classic Italian pasta dish that's ready in under 40 minutes! Make it with canned tomato paste and crushed tomatoes, canned anchovies, jarred olives and capers. So simple and so good!</p>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>2 tablespoons extra virgin olive oil</li>
+        <li>1/2 cup finely chopped onion</li>
+        <li>3 cloves garlic, finely chopped</li>
+        <li>3 to 4 canned anchovies, chopped</li>
+        <li>2 tablespoons tomato paste</li>
+        <li>1/2 teaspoon red pepper flakes</li>
+        <li>1 (28-ounce) can crushed tomatoes</li>
+        <li>2 teaspoons dried oregano</li>
+        <li>2 tablespoons small (non-pariel) capers</li>
+        <li>3/4 cup (95g) pitted olives (black or green), roughly chopped</li>
+        <li>1 pound spaghetti, linguine, or fettuccine</li>
+        <li>Salt</li>
+        <li>Extra virgin olive oil for drizzling</li>
+        <li>1/4 cup chopped fresh parsley</li>
+      </ul>
+      <h2>Steps</h2>
+      <ol>
+        <li> Heat pasta water:
+          Bring a large pot of salted water to a boil (1 Tbsp of salt for every 2 quarts of water). While the water is heating, start making the sauce.</li> 
+          <li> 
+            <p>Cook onions, anchovies, garlic:      Heat the olive oil over medium heat in a large, deep sauté pan. When the oil is hot, cook the onions until they're soft and translucent, about 4-5 minutes.</p>
+            <p>While the onions are cooking, stir in the chopped anchovies along with some of the oil from the can.</p>
+            <p>Add the finely chopped garlic and cook another minute.</p>
+          </li>
+          <li> 
+            <p>Make the sauce:Mix in the tomato paste and cook it for 2 minutes, stirring occasionally.Add the crushed tomatoes, oregano, chili pepper flakes, olives, and capers. Bring the sauce to a simmer, then lower the heat to low to maintain a gentle simmer, 10 to 15 minutes</p>
+          </li>
+          <li> 
+            <p>Cook the spaghetti:When the salted pasta water is at a rolling boil, add the pasta. Cook the pasta according to the package instructions, to al dente, cooked but still slightly firm.</p>
+          </li>
+          <li> 
+            <p>Finish the sauce:Stir the parsley into the pasta sauce. Add some pasta water into the sauce to thin it if it has become too thick.</p>
+          </li>
+          <li><p> Serve:Drain the pasta and put in a large bowl. If you want, mix a little olive oil into the pasta so the pasta doesn't stick together.</p>
+            
+          <p>Add a ladle's worth of sauce to the pasta and mix to combine. Serve in shallow bowls with more sauce on top.</p>
+          </li> 
+
+      </ol>
+  </body>
+</html>
